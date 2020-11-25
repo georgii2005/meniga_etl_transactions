@@ -1,0 +1,272 @@
+subcategory_id,subcategory_name,category_id,category_name,sector_id,sector_name
+27c6de61-e943-4a66-a2f3-b7cff875af7c,Financial Services,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+2ba46daa-6f78-4471-88a1-99696076e63e,E-commerce,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+37c32ac0-6752-47a1-95d5-bcf61fdd529e,Dating,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+60782241-744a-4060-80bf-8675045f89e3,Advertising Services,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+714772bd-d094-4ca8-8d16-b29fcc5de854,Banks,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+a8900fde-24ee-4058-8276-5dd3411775ef,Welding Repair,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+a8928a14-0ce1-4543-be67-e3d1d938dda3,Internet Security,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+acb4e29c-9753-46cb-96e3-b5b4707f7856,Stenographic & Secretarial Support Services,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b21ef5a2-ef8a-4a53-a25a-eebed744e05e,Storage,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+79acf42c-7a44-4307-93a7-168b97d0b161,Travel Agencies,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+3a2da514-559f-4610-9272-bcc2c106f51c,Aquariums,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+4ecbb75a-35ff-4da0-95f6-a640f9ee7a0c,Minigolf,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+61be30b6-9824-41d3-839e-6ddee7057161,Events & Venues,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b3ff8dc4-468a-4392-b042-f9be09b02148,Tourist Attractions & Exhibits,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+df824e40-682c-4861-b20d-a593a4df2f52,Cinemas,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+eab0f5f0-3826-49d7-8c74-df9b08a3653c,Amusement Parks,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+0032d9f3-60e2-47d7-b803-513ce19e4679,Pubs,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+84fe55b7-0537-487e-9587-74c38d379132,Take-away,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+f405ea40-c8af-4205-a965-396abaecd76c,Nightclubs,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+e5589781-3725-4058-979e-5c4e48d0bbb4,Grocery Subscription,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+3aae6633-c4a5-4b25-b231-097c0536f62d,Beauty Salons,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+508ee3e8-ba31-4fbd-a033-e091404da0c1,Hearing Aids,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+52e2a1db-c77e-4cc6-9443-41042abb92a9,Cosmetics,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+67192e84-20f4-4f52-99ce-51f048cfc3dc,Public Sauna,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+3ebcd8c5-381b-4e5e-b973-009ade06a802,Craftsmen,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+561c64db-42be-47b9-8584-bee232e2fd12,Glassware & Crystal,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+6ca36f06-4b66-4d3b-8f58-21fac9495bbb,Hardware Stores,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+766eb5ee-6968-44b8-a98f-e4b485ae353f,Workwear,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+88687b4a-05a7-4499-aa14-e2d0749fc78e,Pets,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+a07ebb01-cf61-42c8-b8c1-a2c57bfc4783,Paint & Wallpaper,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+b87643f3-8c5f-4184-95a5-9e61768b15f8,Recycling Center,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+5be92d72-2096-4ca8-936e-1fc8f867c993,Sports Halls,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+f5516225-7c35-42f9-915e-95f4cf34b734,Cameras & Photo Supplies,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+20aebcc6-4ff8-4ce7-8778-f387f522c7cb,Unlinked MCC,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2ac19112-803b-4738-88c7-b6973ff997ff,Online Marketplaces,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+56d1841f-0de2-4fbb-bb58-d59cb3c7306b,Tobacco Stores and Stands,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+64ea17f2-7fc5-4754-83ff-eb25702d1b06,Libraries,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+bba46d1f-ae5f-4934-9c1c-0fb8033bb844,Religious Goods,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2c9ac7ee-d6a2-45a6-9fa9-35d224f28c27,Underwear & Swimwear,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+7584ffa1-f9d5-4ae3-85e7-db08d7d4e08c,Jewellery & Accessories,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+dcf1cd5a-9b1a-4473-9e8e-7b9ab0d3538f,Second Hand,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+147b2d6a-670f-4eeb-a22a-d47a82e6ab45,Computer Components,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+3e761e82-9b18-4a96-a3de-f0d838f77adf,IT Services,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+1c680d8b-3f77-42a1-b0a0-587ae3b60945,Service Stations,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+5c8a0a19-3995-4d83-b631-9e83081c0f8d,Car Service,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+68aff8d5-2489-442e-956e-4c0db51c6fd7,Vehicle Inspection,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+d0f759b8-7731-4939-a7df-ecda5128f6e4,Mobile Homes,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+22efda35-7429-4fa4-af01-8947694b1be2,Direct Marketing – Catalog Merchant,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+28edf83a-be86-486e-88d6-5ca8b5bdb63b,Management Consulting & PR,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+393eabd5-8c90-406b-bbc4-eda3b0a69e8e,Tailors,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+75e7c231-c47b-45c6-ab11-78bc5d6cadb1,Appliance Repair,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+8df25752-d83e-4c37-b3a7-cf49fadee376,Online Trade,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+e9af5e6c-5dcc-4085-b83e-6b4e1761b6f6,Moving Companies,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+448c6b14-4879-4c2c-ad6a-41b2cba67346,Hotels,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+460fac6f-aab5-4741-b8cd-38c788d2452c,Timeshares,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+550dec2e-decd-40ba-b96d-a60c31c73834,Taxi & Limousines,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+a03be144-3103-4b2e-9fd1-160df8adeb1a,Resorts,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+c5e19ce7-723e-4f4c-8a4f-c7ed63ebd608,Airlines,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+d31bd993-f58d-479d-a6e1-e7351a1643c5,Motor Home Rentals,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+154cba8b-75ba-4ba6-8c39-8e0651ee65c0,Video Rental ,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+1c9364fa-d4d5-4538-97ad-9fd2ba48bcd8,Public Swimming Pool,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+4689fdac-0a42-474e-b2c7-1b8e39d184c4,Instruments & Sheet Music,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+4a6e2324-45dc-4ed8-bd45-0538b0b4a319,Theaters,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+831bf363-6866-4468-9890-7914b6262b7e,Newspapers & Periodicals,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+f81255ae-2932-43b1-acc2-cda014d8594f,Nature Reserve,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+15648215-9ffe-47f1-8290-0bf55388d17d,Liquor Stores,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+273bb206-7ed9-44f9-a641-9cc9e9bc804c,Meat & Fish Stores,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+5e8d6e21-7d3b-4ed5-b537-715c6b6903fc,Food Trucks,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+bd3dcee1-b8c3-445e-9cfe-570f5d773668,Juice Bars,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+188b2a1e-0693-484e-9021-9e11bd98af15,Groceries Online,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+d057760f-afd2-44e7-a823-cafbdf1de995,Organic Groceries,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+842eafdf-e24e-45be-bc4c-daa8c16e4018,Optometrists & Ophthalmologists,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+10283761-5efa-492b-b5c2-2b2bae5b8420,Stoves & Fireplaces,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+222388ce-e246-4bab-bc3d-802133026041,"Blinds, Shades & Awnings",27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ba955e8f-bb61-4a82-b9d0-e7e07bc3806a,Furniture,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+3c512f0b-3bbc-4f3e-9eaf-61a38df2f995,Workout Supplements,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+4ca002e4-8c18-4640-b888-b3ea2ba9cbd4,Golf Stores,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c1c86f97-d764-4749-b1aa-aa30a6fc652b,Golf Courses,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+8b590965-8d93-46d3-a0f4-6badc6a0342c,Direct Marketing – Not Elsewhere Classified,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c441e1d7-f918-47fb-93ea-614378a2621c,Office Supplies,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c6686328-7d19-4e2c-956c-d8079a3691c7,Gifts & Souvenirs,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+cfababdb-f064-4b14-a975-134b7c83dae1,Religious Organizations,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+d1215d13-fa4d-453f-a496-449b6f6f3eec,Conference Facility,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+eaaeb466-9982-4ee2-8ac9-abad6c347dfb,Education,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+fd705567-4545-43aa-85d1-80d9898c1bee,Pawn Shops,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+671cbc75-bbe9-4c6f-a3b6-e4138a727dc9,Children’s Clothes,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+29c96277-8501-44b6-a391-a84b44c9db85,Computer Repair,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+347b5bff-3ee9-47bb-8d91-79d74d6980d9,Apps,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2d4de915-a4de-4030-87dd-d77df0945b65,Fuel,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+428ac200-20ed-4ad3-a77b-04856cd84f49,Car Insurance,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+4edcdb80-5196-4eac-b4c3-b0b9e15dabea,Truck & Trailer Rentals,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+9b37ed8d-7802-430b-bf83-d500085d196a,Car Wash,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+af8f1bbb-222f-49d9-8fc8-bc7c7955b7bb,Snowmobiles,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+b25b9e70-ce37-4421-8b20-cfcb16fb03d5,Used Cars,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ec48f1d0-aae3-46a8-8bc1-f9272d861357,Scooters & Mopeds,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0c1b1962-19df-4f0e-892a-5a29ecb9cbb0,Auctions,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+113b3020-ff53-4878-9c58-98362d60da88,Equipment & Appliance Rental,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+2cd4028f-9ba1-4e3e-b55a-8275e8892891,Carpet and Upholstery Cleaning,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+461d02ed-718c-437f-b623-c95bd5afb344,Direct Marketing,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+6e8e7775-db31-4a89-913a-9065feeafdb3,Pest Control,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+7329e954-2217-423c-8cda-d72f88413b15,Shoemakers & Key Cutters,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+79e24f49-c856-47f1-ba38-1f8b9b340f1e,Security,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+917fd3f3-e995-49f0-b172-824468bfe14f,Employment Services & Recruitment,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+9ba7d2e5-2533-4e65-8071-ff9eff20367f,Air Conditioning & Refrigeration Repair Shops,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+eea8465b-bbc9-4d84-ba7b-a0185779b491,Specialty Cleaning & Sanitation,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+5bf15942-a3ac-4a31-95b4-36fb72bde164,Train Companies,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+c4f246df-fad5-4ce2-8039-d1f062c56842,Scooter & Bike Rentals,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+dd1f4e5d-da76-424c-8d06-535803c3d7bd,Other Transportation,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+13bd2979-7beb-4a81-a682-e1f80a545cfc,Streaming & Cable,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+8f8f57b4-9f40-4718-ab58-2325e8069c80,Movie Production & Distribution,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+9fa1e73c-4560-4f0d-afd3-8cffad5b6163,Museums,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b4b98b4e-fc8f-4da7-88b3-fcba3d0aad84,Party Supplies,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+bf0e9814-a86f-4ff8-bff0-2494d31ac41e,Miscellaneous Entertainment,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+dd1b6cac-6649-4bbe-a2ad-2aaa4473806f,Experiences & Gifts,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+ebff73ac-2798-4345-a1ab-57e532dce610,Playgrounds,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+2f17b175-0dfa-4dad-aff8-2f63803a2edd,Bakeries,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+2fda440b-f219-4b7d-9dda-76090ec94398,Restaurants,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+be1b0bb5-f1cc-42bc-acf4-98bd172b52ed,Ice cream ,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+d9deaea8-f96a-4d4b-83a8-d48389de594a,Fast Food,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+f0ddb0b5-f57c-476b-8955-85089ade4c51,Kiosks & Other,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+28addd5e-30db-4f07-9e19-0d5980351a0c,Doctors & Physicians,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+29c656e4-17cc-4188-9781-b65d796879f6,Spa,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+7d68e316-b00b-419a-a2a5-b312dc30116e,Hospitals,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+83038e31-45bc-4869-82dd-80b9ac633e4b,Health Clinic,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0573b1af-16fd-4b31-b730-9e93e8b18296,Antique Shops,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+54c8e599-3452-4381-bc70-b58b064ef760,Kitchenware & appliances,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+d3d8d65e-abb5-4d02-8e2c-b17d7903a04d,Wrecking & Salvage,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+80300059-d72a-43b7-9a9e-d3351d04c46b,Ski Resorts & Ski Equipment,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+29c325ba-0f75-46b9-8bf1-95490cdd0bc3,Wrapp,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+cdc53229-82f1-4a77-8927-3493622b7b29,Shopping Malls,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+48dcb998-92f9-4a00-875c-e44a31b1de26,Watches & Clocks,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+81a897be-18c6-4511-8d49-dd1bc9b22539,Lifestyle Store,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c4998a07-35ef-4204-90fe-1429bb353437,Fur,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+f21bf007-3bbe-42af-bd56-a3e00cc00c84,Wigs & Toupees,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+14036480-8557-48b6-8df4-7ad1f73dbc59,Technology & Electronics,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+e7299094-0ad6-4bad-a330-1269e8134fa7,Computer Software,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+1ed75ddf-af7f-4ff8-9917-2a4577ea2697,Boat Accessories,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+12d47b65-041c-414f-a374-709f55cdb72f,Registration Office,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+5eb6aa4a-6efc-4e99-9253-c8509a21b188,Information Retrieval,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+69a2bc77-ace1-4785-9f86-754365d68116,Dry Cleaners,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+8aef31a4-2f1f-45bd-afaa-f22276c57927,Clothing Rental,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b4202954-ea5e-4381-bd8f-3cef55357608,Veterinary Services,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+bdf2aa45-9e94-46c9-a40e-359af080b587,Radio Repair Shops,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+e10782b0-7072-4859-bb21-fbc99afed09b,Printing & Photocopying,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+e1d77334-fc00-456f-92ff-a6e1f6d1bae2,Apartment Rentals,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+27314dff-e86b-4ee4-acb6-d9d839aecd29,Car Rental,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+2b717435-9927-44ff-9d13-4ba29963a59d,Campingsites,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+790559e0-8d25-461a-811c-440608ea871b,Boat Rental,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+832ecef0-3b6a-4843-8641-d78a5d86c533,Game Arcades,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+921a55be-4097-4a39-9849-a3b2a2028b32,Music,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+06d1ce88-820d-4534-9be5-9ff735a4a14c,Delicatessen,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+1caf746c-3af4-43a8-9fbf-bcc1e0b57579,Candy Stores,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+6be5ab26-3ee8-4b3b-9521-08204aa9d97a,Sports Bars,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+7dd2696e-37e2-4fa6-97e9-c437ddf062e9,Pizza,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+c69353eb-7a0d-4a27-913b-7e39ad2edf2d,Bars,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+eb1ab643-e019-4fd6-b396-411c229808a6,Sushi,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+075dd434-a6b2-49c4-a6cd-dddec5126c40,Coffee Roastery,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+161af13c-f5ea-4b36-85de-f5eb4b4be234,Duty Free,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+4c729494-0519-4d5e-b25d-a794e139cce8,Supermarkets,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+5630da00-60fb-4dd6-a915-fa6e5b085919,Convenience Stores,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+17bcb631-c8ec-4ec2-aeba-5e9d36087506,Otolaryngologist,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+65026d43-33a9-459c-b51e-847ba869ff2f,Other Medical Services,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+9a434a27-27c2-4311-b3e2-6b65a070b61c,Nursing & Personal Care,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+a1a6903b-b23e-4944-b63a-76ac5080dce7,Opticians,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+a43bd5f6-b89e-4970-a4ee-8edae97b21d9,Dentists & Orthodontists,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+214c1fa4-17df-4571-a05c-e487c1d35dc1,Contractors,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+5113119d-26ef-436e-8486-a71ed94e396d,Interior Design,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+70f32f7b-adea-47ac-bf26-7084e2b4d4ec,Electric & Water Utilities,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+85d6556d-929a-4758-9ef7-c776383bc9fe,Department Stores,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ef8f51e3-64eb-4080-a150-2c30382815b1,General Store,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0a9b5e01-8955-4cb0-a1bf-e8244b73427a,Sports Goods,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+3492a5fc-03dd-4c59-8623-a4bf18954316,Bicycle & Accessories,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+99c0c5e7-e0ef-4817-8883-e8b9565964b5,Marinas,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+be2a19fc-d954-4d0d-ad9a-cd3f5c3b4194,Outdoor Activities,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c8d7db34-56e6-4194-ba1a-ad4756860f06,Sports club,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+16e27b9f-7d7a-495d-af81-7cfc17bfb108,"Typewriter Stores – Sales, Rental, Service",42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+94592f2e-e82a-4d04-a6a3-267be840b429,ARCHIVED,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ea32b3d2-04f1-44e0-b189-98e7954d187f,Student Societies,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2a03c5b7-c451-4e0b-9a60-018a2adb6776,Clothes & Accessories,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ff20e84f-02e9-4640-8dc1-5b3055b17249,Leather Goods,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+775c882a-36f2-46b4-91ab-3d701e8761d6,Telecom,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+cb5542e3-42a7-4e5b-9fb9-cbf2377748f3,Video Games,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+124ee3d9-7c46-491e-8d92-b2f0eafbed18,Cars (New & Used),ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+16a5cbf6-8ff5-44ca-8601-563cb9914127,Car Tires,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+26be7f6e-4486-4974-8e0c-bc7c22d719cc,Car Parts & Accessories,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+34e868de-5299-4a6e-a720-e2831bf622ff,Charging Stations,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+1900f11a-997e-45d3-8b35-2e5edd47638d,"Insurance Sales, Underwriting & Premiums",07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+1b4fa43b-1657-49ed-a309-7d11359e97da,Delivery,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+5fd64b60-2192-4817-b6f0-430f81d2bf22,Photo Printing ,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+625f8dcb-fa47-427a-89b9-5791152ce080,Repair Shops & Related Services –Miscellaneous,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b4448254-08c7-495e-b55e-af177011268e,"Typesetting, Plate Making, & Related Services",07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b4803810-baac-485e-bd6f-bd01703fc838,Trading Company,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+c45c3019-4f90-4300-928e-610239868b0b,Cleaning,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+cd4c95ad-7b87-4594-88a0-d086d9a5e7a5,ATM,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+df1284fd-8313-4b97-afaa-3365f9836ffc,Direct Marketing- Insurance Service,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+45183d16-01b1-4e97-ab2f-c27b8d1e8a26,Travelbags & Accessories,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+7f3b7a72-18da-4f0d-91fd-5323cfac2d66,Public Transport,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b12ec1e4-b370-41cb-9d33-6f7533a8ec9d,Airports,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+1b237ab0-3814-43bd-a9c0-52d57791c54f,Gambling,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+55e9433a-d049-42cd-916f-456919acd423,Riding Activities,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+ab6cb793-46f6-44b0-b508-1617a8d8269e,Arenas,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+bfcefa73-d81f-4cdb-b87d-249de75af01f,Dance Halls & Studios,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+0dbd489e-19c3-493d-a642-8165bf48017b,Golf Restaurants,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+c7bb852a-c9b4-41d8-89a5-2487106106d9,Coffee Shops,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+d88a7a85-a8e3-40c8-8758-5d3804be4cf6,Breweries,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+5c5913b7-fbc0-4210-9cf0-9e59ca528c7c,Fruit & Vegetables,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+abdbcca3-1334-44a5-8342-ff9a45b20323,Tea & Coffee,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+10945a2b-62a1-4b8a-903d-f26b30aac81d,Sanitary Products,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+31885b8b-89d9-48be-8f70-91ffa88a46e4,Pharmacies,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+913928b9-24f2-47ad-a535-8504f3a4849c,Tattoo & Piercing,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+da149dc0-50b8-4101-8177-e21962495f24,Hairdressers & Barbers,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0f326f1a-88da-41f5-bdf7-1c98b037a3d3,Building Materials & DIY,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+f48ef31f-dec7-4fe2-b8b7-420fdc021387,Florists,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ff1187ef-0438-4dd5-a529-e9e09f05c1d5,Lamps & Lighting,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2539eec3-6ac8-4649-b994-5bf55211e59e,Stamp & Coins,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+f1afb80e-e426-4352-958e-dbcffebbf865,Kennels,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+1da46a28-ff4c-485c-9115-1f6e67269922,Government Services,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+54b668f0-eea3-427a-a8e3-1b8eeec9a7b8,Crowdfunding,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+7ae680b8-f65b-48a7-8480-7afb90e77f81,Deals & Discounts,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+eac2c57c-d376-48ac-b502-c371f1882b7b,Charity,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+876dba06-eb2a-4880-abff-bb21a91b4110,Handbags & Purses,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+f40528d1-3280-46ba-a608-eb6186ad8e1a,Shoes,d3f2a524-d371-4103-a53d-914171e3b5ff,Fashion,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2a437b44-e428-455d-ae22-e588fe9aab55,Online Services,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+53017548-cb18-4c8c-8c9c-eac9adb6d9b3,Mobile Phones,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+639f8376-dff0-43dc-a4b8-fd5151c3a54d,Boats,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+661e631e-3d99-406a-94b7-77ad50a7a754,Car Paint,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+2dac60b0-5c22-45b2-8ddc-056325d78988,Legal Services,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+41939b1b-75df-45f8-8706-efcc487dfa23,Tax Preparation Service,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+69f9065c-e35d-4239-a614-9baafeaa1222,Photo Studios,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+6d4c2044-5934-4753-99a7-0c9130f6624f,Construction & Maintenance,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+a24c39be-f2c6-431f-9b05-506758a1a509,Publishing & Printing,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+a8e5bec8-8d77-4734-9c0c-40578b49ce8e,Furniture Refinishing,07cab751-8438-4701-9aed-a9fd92a331a4,Services,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+20f1b455-9add-4021-85fe-6a078f1c184f,Ferry Services,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+4b514f20-1470-476b-9c5c-1af288db05e1,Public Restrooms,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+9a98adf5-f53b-40e4-bc63-f9c16dd6d6bc,Toll & Bridge Fees,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+b5af4a6d-2c0b-45b7-90ee-1dac09d9d16f,Car Parks & Garages,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+ba8f2b9d-9063-4e3c-ac71-eb3538b5c3b8,Bus (Including Tour & Charter),664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+c90fde08-866d-4ef8-91bf-9928e10eff53,Cruises,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+d51306d8-7ec2-4050-88ee-dd0970f60056,Vacation Home Rentals,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+d9654592-888d-4cad-8b0a-12ec0abb24d6,Currency Exchange,664db727-e6ba-4aef-acb3-2bc32e9a819a,Travel,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+1e6b49af-64bf-4df8-af5e-6668e33c1992,Billiard & Pool Halls,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+71a9369f-4604-4509-b313-40c9d7184071,Ticket Agencies,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+8d3a9b9f-9e7e-485a-8bbb-7a6c8515d2f8,Art Galleries & Art Dealers,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+d347353a-0b53-4019-9e43-fd97c04fc4cd,Bowling Alleys,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+dbd5e9c1-b8b9-4681-803e-efdfb8860905,Book Stores,c9452e8f-34ba-4d24-b7f8-23be012188a6,Entertainment,563f7a45-03d8-42d0-8126-fc28dc5681fb,Services
+129027fd-a56c-4eb5-963f-d9087c1a1931,Catering & Food Delivery,361d6b50-e4ea-4985-a4de-8db6a712b8ca,Food & Drink,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+5ee52beb-c33b-491f-8b9b-6f99e7d42489,Vending Machines,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+723b8dd9-ed98-41b9-8ce0-68906eb50808,Food Retailer,faef71df-6d19-4ad4-973a-a77c2c7edb88,Groceries,ddef98b6-4226-4142-a97c-914be503a9dc,Consumables
+1244f4e8-170c-4072-bfd7-7bfbfa54e29d,Podiatrists & Chiropodists,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+22c0c61b-7a3e-4e37-95aa-2d11aebd151f,Massage Therapist,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+25727de6-79f0-4c2c-a8af-5fe781453dc4,Osteopaths,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+418375d4-732e-4bba-a900-b9a206aea91c,Healthy Living,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+80dc2896-c5ae-493d-b2b6-c0f61605fffc,Prophylactics,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ce7183b2-1cb1-4fcf-aa38-c5f9bf9c281a,Physio Therapy,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+d6d1b4a6-c1ca-4cc4-ba5f-7ad63b3bfe97,Hair & Beauty Salons,0319b1a7-0f96-40b4-9561-ef32d1efa7a5,Health & Beauty,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+306cceda-f566-404d-bc21-db7aea91d49d,Garden,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+9b5ec8ee-4818-4af6-afbb-723c58849e4e,Sewing & Fabric,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ba4a4850-0426-46cd-83c3-3c238dd23118,Art & Craft Shop,27d52c7d-2d70-4af7-a3cc-429dfd9c7046,Home & Garden,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+33239c8c-5a77-4565-b13e-398bcf6280b9,Water Equipment Rentals,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+34c77326-2d79-4b8b-a79f-d30b7c09bce8,Fitness Studio,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+93c26d8e-5a60-45b8-b477-6d81f1db830f,Membership Clubs,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+b52dcd80-c3ce-4d61-b5bc-496a1f785863,Climbing Center,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+c757d25f-5b24-4fda-80db-bc2061a393b6,Outdoor Equipment,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+e8793b46-ed12-4912-b6bc-43a5c86d5024,Sports Apparel,3ef867d2-03d0-4156-857c-340c35b3d0ee,Sport & Hobby,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+393f550d-b615-4108-99ec-1dda2531502e,Flea Market,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+ed3dbd23-5217-474c-99fd-ac8265c40bcc,Default for transactions without MCC code,42fb035b-aa5d-4701-87ff-da82f3bf9d2f,Other,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0a3651ea-2f7e-4de7-98bb-c7b3f8b23e92,Toys & Games,45f10bec-cb73-458f-9ecc-050d6b051465,Kids & Toys,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+616fc6d7-de85-40a7-a2cb-820c1517e42e,Children’s Store,45f10bec-cb73-458f-9ecc-050d6b051465,Kids & Toys,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+937185b8-9bca-43cc-9945-747ec00f74d4,Phone Accessories & Repairs,d76ccc64-73cf-4fa3-a8ee-e9706c6f79c4,Tech,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+0d45c500-3f54-4b19-9f5f-e00538198bd2,Towing Services,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
+9936d4d5-9fad-423a-96f1-aed97bde67c3,Motorcycles,ec4c4ac5-3727-453c-ae58-a28ed251f173,Motor,fdda739f-a61a-4062-9d41-0e6ad760d1f1,Durables
